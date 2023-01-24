@@ -2,6 +2,9 @@
 <h3 align="center">Dedicated, disciplined and hard-working</h3>
 
 ✨ I’m passionate about 
+- Machine Learning
+- Deep Learning
+- Computer Vision
 - Data Engineering
 - Data Science
 - Data Analytics
