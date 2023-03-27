@@ -11,10 +11,10 @@
 - Software Engineering
 
 🌱 I’m currently learning 
-- Fundamentals of Data Mining
-- Information Retrieval and Web Analytics 
-- Massive Data Processing and Cloud Computing
-- Machine Learning and Optimization Methods
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
 
 🤝 I’m looking to join a progressive organization
 
