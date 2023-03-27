@@ -8,13 +8,6 @@
 - Data Engineering
 - Data Science
 - Data Analytics
-- Software Engineering
-
-🌱 I’m currently learning 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
 
 🤝 I’m looking to join a progressive organization
 
